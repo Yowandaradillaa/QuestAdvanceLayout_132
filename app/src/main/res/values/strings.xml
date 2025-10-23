@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">My UI First</string>
     <string name="prodi">Teknologi Informasi</string>
-    <string name="univ">UMY</string>
+    <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
     <string name="nama">Yowanda Radilla Asmara</string>
     <string name="alamat">Tasikmalaya</string>
     <string name = "nim">20230140132</string>
